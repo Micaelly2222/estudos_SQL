@@ -1,6 +1,8 @@
-## Estudos SQL
+# Estudos SQL
 
-Projeto desenvolvido para estudo do SQL
+## Visão Geral
+
+Este projeto foi desenvolvido com o objetivo de estudar o SQL (Structured Query Language). O SQL é uma linguagem de programação usada para gerenciar bancos de dados relacionais. Aqui, explorei as bases do SQL, seu funcionamento e como ele é aplicado na manipulação de dados em bancos de dados.
 
 ## Linguagens e Ferramentas Utilizadas
 
@@ -9,3 +11,7 @@ Projeto desenvolvido para estudo do SQL
 * [Pandas](https://pypi.org/project/pandas/), biblioteca para análise e manipulação de dados
 * [Faker](https://pypi.org/project/Faker/), pacote Python para geração de dados falsos
 * [Random](https://pypi.org/project/Faker/), módulo Python para geração de números pseudoaleatórios 
+
+## Requisitos Mínimos de Instalação
+
+- Python (versão 3.6 ou superior)
